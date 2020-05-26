@@ -53,12 +53,12 @@ body {
     width: 200px;
     height: 200px;
     transition: left 500ms ease-in;
-    transition-delay: 0.3s;
+    transition-delay: 0.2s;
   }
 
   .animation-container:hover .black {
-    width: 1200px;
-    height: 1200px;
+    width: 800px;
+    height: 800px;
   } 
 
   .animation-container:hover .green {
